@@ -6,4 +6,3 @@ int main(){
     result= add_5(x);
     printf("the result is: %d\n", result);
 }
-
